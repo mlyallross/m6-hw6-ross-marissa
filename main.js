@@ -3,8 +3,6 @@ xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         var apiResult = JSON.parse(this.responseText);
 
-        console.log(apiResult);
-
         var cityName = document.getElementById('header-span');
         cityName.innerHTML = apiResult.name;
 

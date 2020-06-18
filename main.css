@@ -9,6 +9,7 @@ body {
    color: darkblue;
 }
 
+
 header {
     text-align: center;
     font-size: 2rem;
@@ -17,8 +18,14 @@ header {
 
 main {
     font-size: 1.5rem;
-    margin-top: 45%;
+    margin-top: 10%;
     padding-left: 2%;
+}
+
+.sedona {
+    width: 98%;
+    padding: 1%;
+    margin-top: 5%;
 }
 
 footer {
@@ -27,8 +34,8 @@ footer {
     margin-top: 100%;
     background-color: darkblue;
     color: skyblue;
-    height: 120px;
-    padding-top: 3%;
+    height: 80px;
+    padding-top: 8%;
 }
 
 /**** iPad/768 px min width media query ****/

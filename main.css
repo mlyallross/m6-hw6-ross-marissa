@@ -65,14 +65,12 @@ footer {
     
     main {
         font-size: 2rem;
-        margin-top: 35%;
     }
     
     footer {
         font-size: 1.3rem;
-        margin-top: 70%;
-        height: 80px;
-        padding-top: 8%;
+        margin-top: 30%;
+    
     }
 }
 /**** desktop/1024 px min width media query ****/

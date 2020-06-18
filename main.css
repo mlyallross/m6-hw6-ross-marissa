@@ -50,3 +50,23 @@ footer {
     }
 }
 /**** iPad/768 px min width media query ****/
+
+/**** desktop/1024 px min width media query ****/
+@media (min-width:1024px) {
+    header {
+        font-size: 3rem;
+    }
+    
+    main {
+        font-size: 2rem;
+        margin-top: 35%;
+    }
+    
+    footer {
+        font-size: 1.3rem;
+        margin-top: 70%;
+        height: 80px;
+        padding-top: 8%;
+    }
+}
+/**** desktop/1024 px min width media query ****/

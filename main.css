@@ -30,3 +30,23 @@ footer {
     height: 120px;
     padding-top: 3%;
 }
+
+/**** iPad/768 px min width media query ****/
+@media (min-width:768px) {
+    header {
+        font-size: 2.5rem;
+    }
+    
+    main {
+        font-size: 1.8rem;
+        margin-top: 40%;
+    }
+    
+    footer {
+        font-size: 1rem;
+        margin-top: 80%;
+        height: 80px;
+        padding-top: 8%;
+    }
+}
+/**** iPad/768 px min width media query ****/
